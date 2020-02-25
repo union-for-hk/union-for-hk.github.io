@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Noto Sans;
+  src: url("/NotoSansCJKtc-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: Noto Sans;
+  font-weight: bold;
+  src: url("/NotoSansCJKtc-Bold.otf") format("opentype");
+}
+body {
+  margin: 0;
+  background: #1e225f;
+}
+
+.drop li {
+  text-align: center;
+}
