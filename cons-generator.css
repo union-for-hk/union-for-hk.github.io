@@ -15,3 +15,7 @@ body {
 .drop li {
   text-align: center;
 }
+
+.square, .square button {
+  border-radius: 0 !important;
+}
